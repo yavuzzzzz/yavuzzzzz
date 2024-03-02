@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yavuz Yılmaz</h1>
-<h3 align="center"> Jr.Frontend Developer from Turkey</h3>
+<h3 align="center"> Jr. Software Developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Dynamic Portfolio Site Design**
 
